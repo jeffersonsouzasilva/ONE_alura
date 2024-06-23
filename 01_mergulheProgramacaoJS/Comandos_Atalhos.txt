@@ -1,0 +1,1 @@
+---  alert(` Isso ai! Você descobriu o número ${numerosecreto} `); //Uso de template string nesta linha, em uma linha com conteudo de string para referenciar variaveis adiciona crase e indica a variavel com ${} 

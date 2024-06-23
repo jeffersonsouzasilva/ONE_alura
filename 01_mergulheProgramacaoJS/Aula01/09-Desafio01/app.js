@@ -21,5 +21,3 @@ let numeroSecreto = 4
 if (chute == numeroSecreto) {
    alert('Acertou')
 }
-
-
