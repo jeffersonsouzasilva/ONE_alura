@@ -1,0 +1,23 @@
+git log
+git remote -v
+git status
+git remote origin
+git pull origin main
+git revert <hash-do-commit>
+git reset --hard <hash-do-ultimo-commit-a-manter>
+git commit --amend -m "editando mensagem do commit"
+git log -p
+git log --oneline
+
+
+Ícone do Git no VSCode ( interface mais amigavel, sem comandos):
+O terceiro ícone, que tem forma de um Y com círculos nas extremidades, é, justamente, o ícone da integração do Git dentro do VS Code, chamada "Source Control" (Controle de Origem). Clicando nessa opção, abrimos uma aba onde mostra, de maneira visual, todas as alterações no código, e nós podemos fazer o commit, o pull, o push, tudo diretamente pela interface. 
+
+
+.gitgnore :
+uso de gitgnore, indicar um arquivo que não sobe para repositório remoto
+ferramenta gitgnore.io "https://www.toptal.com/developers/gitignore"
+
+
+A ferramenta GitHub Gist
+Para compartilhar um trecho de código
