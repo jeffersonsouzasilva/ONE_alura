@@ -1,0 +1,7 @@
+Ctrl + L no cosole do chrome limpa a informações
+
+let titulo = document.querySelector("h1"); // escolher uma tag e adicionar um conteudo de texto
+titulo.innerHTML = "Jogo do número secreto";
+
+document.getElementById("reiniciar").removeAttribute("disable"); //localizar uma tag pelo id e remover o atributo disabilitado
+document.getElementById("reiniciar").setAttribute("disabled", true);//localizar uma tag pelo id e adicionar um atributo, como estou usando atributo "disabled" para desabilitar adiciono "true" ou seja quero manter desabilitado
