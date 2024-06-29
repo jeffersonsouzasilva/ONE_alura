@@ -3,9 +3,11 @@
 
 // let paragrafo = document.querySelector("p");
 // paragrafo.innerHTML = "Escolha um número entre 1 a 10";
-
+let listaDeNumeroSorteados = [];
+let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
+
 
 function exibirTextoNaTela(tag, texto) {
     let campo = document.querySelector(tag);
@@ -48,8 +50,22 @@ function verificarChute() {
 }
 
 function gerarNumeroAleatorio() { // função para gerar numero aleatório entre 1 e 10
-    return parseInt(Math.random() * 10 + 1);
-}
+    //return parseInt(Math.random() * 10 + 1);
+    let numeroEscolhido = parseInt(Math.random() * numeroLimite + 1);
+    let quantidadeDeelementosNaLista = listaDeNumeroSorteados.length;
+
+    if (quantidadeDeelementosNaLista == numeroLimite){
+        listaDeNumeroSorteados = [];
+    }
+
+    if (listaDeNumeroSorteados.includes(numeroEscolhido)){ // verficar se ja existe um método, verificar se um elemento esta na lista 
+        return gerarNumeroAleatorio();
+    } else { //caso numero não esteja na lista 
+        listaDeNumeroSorteados.push(numeroEscolhido); // adicionar um numero na lista
+        console.log(listaDeNumeroSorteados);
+        return numeroEscolhido;
+    }
+}// a ideia é gerar um numero aleatório caso ja tenha um numero na lista
 
 
 function limparCampo() { // função para limpar

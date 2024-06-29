@@ -5,3 +5,12 @@ titulo.innerHTML = "Jogo do número secreto";
 
 document.getElementById("reiniciar").removeAttribute("disable"); //localizar uma tag pelo id e remover o atributo disabilitado
 document.getElementById("reiniciar").setAttribute("disabled", true);//localizar uma tag pelo id e adicionar um atributo, como estou usando atributo "disabled" para desabilitar adiciono "true" ou seja quero manter desabilitado
+
+// Consulta o número de informações dentro de um Array
+nomeDaVariavel.length
+
+// exibir o Array
+nomeDaVariavel[posiçãoDoArray]
+
+//Ultimo item do Array
+nomeDaVariavel[nomeDaVariavel.length - 1]
