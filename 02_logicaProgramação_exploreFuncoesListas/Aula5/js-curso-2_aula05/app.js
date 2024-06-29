@@ -1,28 +1,18 @@
-/*
-Desafios
-1.Crie uma função que calcule o índice de massa corporal (IMC) de uma pessoa, a partir de sua altura, em metros, e peso, em quilogramas, que serão recebidos como parâmetro.
-2.Crie uma função que calcule o valor do fatorial de um número passado como parâmetro.
-3.Crie uma função que converte um valor em dólar, passado como parâmetro, e retorna o valor equivalente em reais. Para isso, considere a cotação do dólar igual a R$4,80.
-4.Crie uma função que mostre na tela a área e o perímetro de uma sala retangular, utilizando altura e largura que serão dadas como parâmetro.
-5.Crie uma função que mostre na tela a área e o perímetro de uma sala circular, utilizando seu raio que será fornecido como parâmetro. Considere Pi = 3,14.
-6.Crie uma função que mostre na tela a tabuada de um número dado como parâmetro.
-*/
-
-
-
-
 // let titulo = document.querySelector("h1");
 // titulo.innerHTML = "Jogo do número secreto";
 
 // let paragrafo = document.querySelector("p");
 // paragrafo.innerHTML = "Escolha um número entre 1 a 10";
-
+let listaDeNumeroSorteados = [];
+let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
+
 
 function exibirTextoNaTela(tag, texto) {
     let campo = document.querySelector(tag);
     campo.innerHTML = texto;
+    responsiveVoice.speak(texto, "Brazilian Portuguese Female", {rate:1.2}); //Acionar a linha 7 do HTML, informar para falar. Nos parametros estou ligando a uma variavel com texto, idioma e genero de voz, por fim a velocidade da fala
 }
 //exibirTextoNaTela("h1", "Jogo do número secreto");
 //exibirTextoNaTela("p", "Escolha um número entre 1 a 10");
@@ -56,8 +46,22 @@ function verificarChute() {
 }
 
 function gerarNumeroAleatorio() { // função para gerar numero aleatório entre 1 e 10
-    return parseInt(Math.random() * 10 + 1);
-}
+    //return parseInt(Math.random() * 10 + 1);
+    let numeroEscolhido = parseInt(Math.random() * numeroLimite + 1);
+    let quantidadeDeelementosNaLista = listaDeNumeroSorteados.length;
+
+    if (quantidadeDeelementosNaLista == numeroLimite){
+        listaDeNumeroSorteados = [];
+    }
+
+    if (listaDeNumeroSorteados.includes(numeroEscolhido)){ // verficar se ja existe um método, verificar se um elemento esta na lista 
+        return gerarNumeroAleatorio();
+    } else { //caso numero não esteja na lista 
+        listaDeNumeroSorteados.push(numeroEscolhido); // adicionar um numero na lista
+        console.log(listaDeNumeroSorteados);
+        return numeroEscolhido;
+    }
+}// a ideia é gerar um numero aleatório caso ja tenha um numero na lista
 
 
 function limparCampo() { // função para limpar
@@ -72,3 +76,6 @@ function reiniciarJogo() {
     exibirMensagemInicial();
     document.getElementById("reiniciar").setAttribute("disabled", true); //
 }
+
+
+//NO TOPICO 03 DA AULA 05, MOSTRA COMO FAZER UM DEPLOY PARA AS PESSOAS USAREM A APLICAÇÃO
