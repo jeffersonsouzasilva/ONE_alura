@@ -100,3 +100,8 @@ Andrew Henrique
 https://www.linkedin.com/feed/update/urn:li:activity:7216658081139609600/
 https://github.com/andrewhenrique2/ONE-CHALLENGER
 https://one-challenger.vercel.app/
+
+Maycon Padilha ( Html e CSS muito bom, tem readm também )
+https://www.linkedin.com/in/maycon-padilha/
+https://github.com/MayconPadilha/Alura-One-T7-Challenger
+https://mayconpadilha.github.io/Alura-One-T7-Challenger/
