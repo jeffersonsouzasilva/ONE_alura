@@ -1,78 +1,85 @@
-Luks Dickmann
-https://www.linkedin.com/in/lucas-dickmann/
-
-Tony Carlos
-https://challenge-decodificador-one-delta.vercel.app/
-
 Marlon Silveira Gomes ( Videos sobre a resolução do problema )
 
-Daniel 
-https://www.linkedin.com/in/daniel-doleski-b8ab67287/
+OPÇÕES DE REFERENCIA ESCOLHIDA
 
-David Bauer ( fez o projeto, procurar github ou linkedin )
-
-Nadine Coelho ( finalizou o curso, procurar github ou linkedin )
-
-Nara
-https://decodificador-chi-lyart.vercel.app/
-https://github.com/Nara-tr/decodificador
-https://www.linkedin.com/in/thaynara-ramos-analista/
-https://www.figma.com/design/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?node-id=2-213&t=D5xNKl3mH7T8cvX7-0
-
-Bolazildo
-https://github.com/rafaelfrazatto/projeto-decodificador-texto
-
-Rinelly Vasconcelos
+Rinelly Vasconcelos ( Completinho, gostei muito. Tem readme bem explicativo, style próprio interessante, tem pop-up para todas as funções do projeto, reseta automatico, tem favicon , somente tiraria a barra de rolagem e ajustaria uma proporção intermediaria na responsividade )
 https://decoder-fox.vercel.app/
 https://github.com/Rinelly/decodificador-de-texto?tab=readme-ov-file
 
-Michel Pereira
-https://github.com/Michel1990/criptografar-descriptografar
-
-Douglas Araujo
-https://www.linkedin.com/feed/update/urn:li:activity:7229971236703920128/
-https://cripdeco.vercel.app/
-https://github.com/dougabrt/cripdeco
-
-Caio Matheus de Oliveira
-https://github.com/CaioMtho/Challenge-OracleOne-Decodificador
-https://www.linkedin.com/posts/caio-matheus-de-oliveira-73656a2b2_desenvolvimentodesoftware-alura-aluralatam-activity-7229265325840642048-O5lF/?utm_source=share&utm_medium=member_android
-
-Lucas Rones
-https://www.linkedin.com/posts/lucas-rones_desenvolvimentodesoftware-desenvolvimentoweb-activity-7228750202155724800-QW2I/?utm_source=share&utm_medium=member_desktop
-https://github.com/lucasoliveiraDEV22/Projeto-decodificador
-https://projeto-decodificador-theta.vercel.app/
-
-Mateus Rodrigues
+Mateus Rodrigues ( Style interessante e ajustado com a proporção de tela, readme simples, sem pop-up, sem responsividade
 https://www.linkedin.com/feed/update/urn:li:activity:7226833031708254209/
 https://encriptador-de-texto-indol.vercel.app/
 https://github.com/MateusFonseca19/Encriptador-de-Texto
 
-Marcel Fagundes
-https://github.com/MarcelFagundes/decodificador-texto
-
-Aline Alves
-https://www.linkedin.com/posts/aline-alves-dev_programaaexaeto-desenvolvimento-certificaaexaeto-activity-7227050225792610308-YoOP/?utm_source=share&utm_medium=member_desktop
-https://github.com/AlineAlves10/challenge-codificando-texto
-https://alinealves10.github.io/challenge-codificando-texto/
-
-Kristtofer Bruno
-https://www.linkedin.com/posts/kristtofer-bruno_alura-oraclenexteducation-activity-7226718501682499584-jG9Y/?utm_source=share&utm_medium=member_desktop
-https://github.com/kristtofer-bruno/decodificador
-https://kristtofer-bruno.github.io/decodificador/
-
-Tauan Benevides
+Tauan Benevides ( style simples do krypto, readme simples, musica ao descriptografar e copiar, tem mensagem  de texto invalido no próprio campo com uma imagem do kripto triste, pop-up ao copiar )
 https://www.linkedin.com/posts/tauan-benevides_alura-oraclenexteducation-activity-7226976232536498179-OBNL/?utm_source=share&utm_medium=member_desktop
 https://github.com/tauan-benevides/krypto-text
 https://tauan-benevides.github.io/krypto-text/
+
+myrdiaclonix ( style legal, icon de contato, proporção perfeita, porém sem responsivade e readme quase inexistente, sem pop-up, mas com botom com mensagem ao copiar )
+https://github.com/myrdiaclonix/challenge-decodificador-de-texto?tab=readme-ov-file
+https://myrdiaclonix.github.io/challenge-decodificador-de-texto/
+
+David Comaps ( style legal, proporção perfeita, porém sem responsivade e readme quase inexistente e sem pop-up )
+https://github.com/davidcomaps/Descodificador?tab=readme-ov-file
+https://descodificador-iota.vercel.app/
+
+Moisés Xavier ( Idéia interessante, parece google tradutor, responsividade completa, porém readme simples e com erro nas imagens )
+https://www.linkedin.com/posts/moises-xavier_helloonet7-oraclenexteducation-alura-activity-7217314010973487104-OfEo/?utm_source=share&utm_medium=member_desktop
+https://github.com/devmoisesx/Criptografia-de-Texto
+https://devmoisesx.github.io/Criptografia-de-Texto/
+
+Andrew Henrique ( As funções estão muito boas e tem um difencial de todos os projetos, tem readme simples, porém falta no style, proporção  e responsividade )
+https://www.linkedin.com/feed/update/urn:li:activity:7216658081139609600/
+https://github.com/andrewhenrique2/ONE-CHALLENGER
+https://one-challenger.vercel.app/
+
+
+TALVEZ ALGO PODE SER APROVEITADO
+
+Aline Alves ( Readme simples, style simples, pop-up ao copiar, sem responsividade, tiraria a barra de rolagem )
+https://www.linkedin.com/posts/aline-alves-dev_programaaexaeto-desenvolvimento-certificaaexaeto-activity-7227050225792610308-YoOP/?utm_source=share&utm_medium=member_desktop
+https://github.com/AlineAlves10/challenge-codificando-texto
+https://alinealves10.github.io/challenge-codificando-texto/
 
 Daniel Wesley
 https://github.com/weszzy/challenge-Decodificador
 https://weszzy.github.io/challenge-Decodificador/
 
-myrdiaclonix
-https://github.com/myrdiaclonix/challenge-decodificador-de-texto?tab=readme-ov-file
-https://myrdiaclonix.github.io/challenge-decodificador-de-texto/
+
+
+NÃO FORAM ESCOLHIDAS
+
+Luks Dickmann ( Sem responsividade, style próprio, porém cru, sem mensagens de erro, tem readme github)
+https://www.linkedin.com/in/lucas-dickmann/
+https://github.com/ldickmann/Challenge-ONE-2024?tab=readme-ov-file
+https://ldickmann.github.io/Challenge-ONE-2024/
+
+Nara ( Tem readme. Para erros tem um pop-up mostrando a mensagem, porém tem problemas em css, sendo proporção de tela, organização de alguns elementos e a responsividade )
+https://decodificador-chi-lyart.vercel.app/
+https://github.com/Nara-tr/decodificador
+https://www.linkedin.com/in/thaynara-ramos-analista/
+https://www.figma.com/design/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?node-id=2-213&t=D5xNKl3mH7T8cvX7-0
+
+Bolazildo ( Tem readme e tem um pouco de responsividade, porém falta ajuste na proporção de tela e botoms. Tem pop-up só ao copiar a informação criptografada, tem um erro em proporção de tela e uma faixa cobrindo os botoms )
+https://github.com/rafaelfrazatto/projeto-decodificador-texto
+https://github.com/rafaelfrazatto/projeto-decodificador-texto?tab=readme-ov-file
+
+Douglas Araujo ( Sem readme, função copiar não funciona, pop-up ao clicar em copiar, cores usadas no style não se adequam a diversidade )
+https://www.linkedin.com/feed/update/urn:li:activity:7229971236703920128/
+https://cripdeco.vercel.app/
+https://github.com/dougabrt/cripdeco
+
+Lucas Rones (Readme simples, erro na responsividade, erro de proporção de tela e botoms, sem pop-up )
+https://www.linkedin.com/posts/lucas-rones_desenvolvimentodesoftware-desenvolvimentoweb-activity-7228750202155724800-QW2I/?utm_source=share&utm_medium=member_desktop
+https://github.com/lucasoliveiraDEV22/Projeto-decodificador
+https://projeto-decodificador-theta.vercel.app/
+
+
+Kristtofer Bruno
+https://www.linkedin.com/posts/kristtofer-bruno_alura-oraclenexteducation-activity-7226718501682499584-jG9Y/?utm_source=share&utm_medium=member_desktop
+https://github.com/kristtofer-bruno/decodificador
+https://kristtofer-bruno.github.io/decodificador/
 
 Quinalha
 https://github.com/rquinalha/Decodificador-de-Texto-Alura-Challenges-Oracle-ONE?tab=readme-ov-file
@@ -82,26 +89,12 @@ Gustavo
 https://github.com/etmaduckso/Alura-Challenges-Oracle-ONE
 https://etmaduckso.github.io/Alura-Challenges-Oracle-ONE/
 
-David Comaps
-https://github.com/davidcomaps/Descodificador?tab=readme-ov-file
-https://descodificador-iota.vercel.app/
-
 Giovana
 https://www.linkedin.com/posts/giovanaoliveirarezende_luffydecoder-oraclealura-desenvolvimentodesistemas-activity-7216969678693244928-h_uO/?utm_source=share&utm_medium=member_desktop
 https://github.com/GiovanaRezend3/challenge-decodificador
 https://challenge-decodificador-beta.vercel.app/
 
-Moisés Xavier
-https://www.linkedin.com/posts/moises-xavier_helloonet7-oraclenexteducation-alura-activity-7217314010973487104-OfEo/?utm_source=share&utm_medium=member_desktop
-https://github.com/devmoisesx/Criptografia-de-Texto
-https://devmoisesx.github.io/Criptografia-de-Texto/
-
-Andrew Henrique
-https://www.linkedin.com/feed/update/urn:li:activity:7216658081139609600/
-https://github.com/andrewhenrique2/ONE-CHALLENGER
-https://one-challenger.vercel.app/
-
-Maycon Padilha ( Html e CSS muito bom, tem readm também )
+Maycon Padilha
 https://www.linkedin.com/in/maycon-padilha/
 https://github.com/MayconPadilha/Alura-One-T7-Challenger
 https://mayconpadilha.github.io/Alura-One-T7-Challenger/
