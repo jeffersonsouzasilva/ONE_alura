@@ -1,0 +1,5 @@
+Comando "sout" para System.out.println();
+Comando ctrl + D para duplicar a linha em baixo
+Comando alt + insert para criar nova class, porém a guia de projeto tem que estar aberta use alt + 1 para abrir
+Comando main para criar este " public static void main "
+Comando psv para criar "public static void main(String[] args)"
