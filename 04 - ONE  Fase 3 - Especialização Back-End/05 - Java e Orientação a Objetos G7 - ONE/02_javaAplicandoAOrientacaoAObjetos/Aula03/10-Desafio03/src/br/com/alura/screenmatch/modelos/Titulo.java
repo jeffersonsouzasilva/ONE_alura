@@ -1,9 +1,6 @@
 package br.com.alura.screenmatch.modelos;
 
-// Comando shift + F6 atalho para renomear um elemento ou todos de mesmo nome, sem a necessidade alterar um por um
-// Comando alt + insert atalho que possibilita a geração de um método
-
-public class Filme {
+public class Titulo {
     private String nome;
     private int anoDeLancamento;
     private boolean incluidoNoPlano;
@@ -48,8 +45,8 @@ public class Filme {
     }
 
     public void exibeFichaTecnica(){
-        System.out.println("Nome do filme:" + nome);
-        System.out.println("Ano de lançamento:" + anoDeLancamento);
+        System.out.println("Nome do filme: " + nome);
+        System.out.println("Ano de lançamento: " + anoDeLancamento);
     }
 
     public void avalia(double nota){
