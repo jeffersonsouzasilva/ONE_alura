@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/04_javaConsumindoApiGravandoArquivos&amp;LidandoComErros.iml" filepath="$PROJECT_DIR$/.idea/04_javaConsumindoApiGravandoArquivos&amp;LidandoComErros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula02/09-Desafio02/09-Desafio02.iml" filepath="$PROJECT_DIR$/Aula02/09-Desafio02/09-Desafio02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula01/14-Desafio01/14-Desafio01.iml" filepath="$PROJECT_DIR$/Aula01/14-Desafio01/14-Desafio01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula02/2944-java-screenmatch-consumindo-webservice-main/2944-java-screenmatch-consumindo-webservice-main.iml" filepath="$PROJECT_DIR$/Aula02/2944-java-screenmatch-consumindo-webservice-main/2944-java-screenmatch-consumindo-webservice-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula01/2944-java-screenmatch-consumindo-webservice-main/2944-java-screenmatch-consumindo-webservice-main1.iml" filepath="$PROJECT_DIR$/Aula01/2944-java-screenmatch-consumindo-webservice-main/2944-java-screenmatch-consumindo-webservice-main1.iml" />
+    </modules>
+  </component>
+</project>
