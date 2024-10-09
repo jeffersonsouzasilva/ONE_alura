@@ -1,4 +1,5 @@
-public class Main {
+import java.util.Scanner;
+
     /*
     Desafio: hora da prática
 
@@ -13,10 +14,14 @@ public class Main {
     5. Crie uma classe Subtracao para imprimir o resultado de 10 - 5 no console.
     */
 
-
+public class Pratica {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        Scanner leitura = new Scanner(System.in) ;
 
+        System.out.println("Olá, Jefferson!");
+        System.out.println("Tudo bem ?");
+        String comprimento = leitura.nextLine();
 
+        System.out.println(comprimento + " também !");
     }
 }
