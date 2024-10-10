@@ -21,6 +21,12 @@ Essas habilidades formam a base para o desenvolvimento eficaz de programas em Ja
 
 public class Main {
     public static void main(String[] args) {
+        double numero1 = 1.8;
+        double numero2 = 2.9;
+        double media = (numero1 + numero2) /2;
+
+        System.out.println("A média é " + media);
+
 
     }
 }
