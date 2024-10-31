@@ -1,0 +1,96 @@
+Praticando Java Challenge conversor de moedas
+
+
+Manoela Feitosa
+https://github.com/feitosaM4/Conversor_de_Moedas
+
+
+Suzy Soares
+https://github.com/sscampos12/ChallengeConversorMoedas.git
+
+
+Jácomo_Jr
+https://github.com/jacomojr10/DesafioConversorDeMoedas
+
+
+João Paulo
+https://github.com/Joao-PauloVS/alura-challenge-conversor
+
+pablwo    ****
+https://github.com/pablwoAraujo/challenge-conversor-de-moedas
+
+
+Gerson
+https://github.com/gerson1077/desafioaluraconversordemoedas
+
+
+Leonan
+https://github.com/LeonanCardoso/conversor-de-moedas-one-
+
+
+Caue Freitas
+https://github.com/Cauefreitas21/conversordemoedas
+
+
+Mauso    ****
+https://github.com/umaikel/ConversorDeMoeda
+
+
+Fullbuster_T    ****
+https://github.com/fullbuster-t/CoinConversor
+
+
+dudu
+https://github.com/giogsilva/CHALLENGE-BACKEND-ONE---CONVERSOR-DE-MOEDAS-/tree/main
+
+
+jhow    ****
+https://github.com/jhonatanjulio/challengeConversorMoedasONE
+
+
+Gabriel   ****
+https://github.com/gabriellrocha/currency-converter
+
+
+Lbirth
+https://github.com/LeandroBirth/CurrencyConverter
+
+
+Gato de Terno   ****
+https://github.com/Tulipaox/Currency-Converter-Challenge
+
+
+Bertu
+https://github.com/FelipeBert/currency-converter
+
+
+Altn
+https://github.com/Junioraltn/ConversorDeMoedas
+
+
+Renato Santos   ****
+https://github.com/Renato32s/conversor_de_moedas/tree/main
+
+
+Caio_math   ***
+https://github.com/CaioMtho/Challenge-ConversorDeMoedas
+
+
+Vagner.J
+https://github.com/VagnerJ-ADS/conversor-moedas
+
+
+Sr View
+https://github.com/djairdj/one_conversor_de_moedas
+
+
+Quinalha    **
+https://github.com/rquinalha/Conversor-Moedas
+
+
+Mayks   **
+https://github.com/MayconPadilha/Challenger-Conversor-de-Moedas
+
+
+Carlos Alessandro
+https://github.com/carlosale191/challenge-conversor-moedas/tree/main
