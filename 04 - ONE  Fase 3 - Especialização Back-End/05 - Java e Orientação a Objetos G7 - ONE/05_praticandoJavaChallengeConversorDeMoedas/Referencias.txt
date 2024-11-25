@@ -114,3 +114,7 @@ https://github.com/rafaelfrazatto/challenge-conversor-de-moeda-one
 
 lucca16bit *
 https://github.com/lucca16bit/java-conversor-moeda
+
+
+eriickdavi7
+https://github.com/daviemaria/conversor-de-moedas-/tree/main/conversor
