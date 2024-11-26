@@ -1,3 +1,12 @@
+Vagner.J *
+https://github.com/VagnerJ-ADS/challenge-literalura
+
+Altn **
+https://github.com/Junioraltn/CatalogoDeLivros
+
+MauricioMH  ****
+https://github.com/mauricioHidani/aluraChallengeLiter
+
 jhow
 https://github.com/jhonatanjulio/challengeLiteraluraONE
 
