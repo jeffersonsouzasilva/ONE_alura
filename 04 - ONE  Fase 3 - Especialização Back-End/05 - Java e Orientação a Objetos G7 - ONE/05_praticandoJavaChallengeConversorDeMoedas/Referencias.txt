@@ -118,3 +118,6 @@ https://github.com/lucca16bit/java-conversor-moeda
 
 eriickdavi7
 https://github.com/daviemaria/conversor-de-moedas-/tree/main/conversor
+
+Kaioba ***
+https://github.com/MsTzz/conversor-de-moeda-java
