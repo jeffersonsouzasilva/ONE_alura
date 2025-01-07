@@ -1,4 +1,5 @@
 // atalho psvm para public static void
+// alt + insert no src para criar nova classe
 
 public class Condicional {
     public static void main(String[] args) {
