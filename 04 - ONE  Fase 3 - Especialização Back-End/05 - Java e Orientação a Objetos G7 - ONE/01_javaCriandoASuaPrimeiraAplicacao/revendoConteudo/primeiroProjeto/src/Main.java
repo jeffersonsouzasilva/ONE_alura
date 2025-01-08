@@ -1,4 +1,5 @@
 // Atalho para adicionar classe Alt + Insert dentro da pasta
+// atalho psvm ou main para public static void main
 
 public class Main {
     public static void main(String[] args) {
