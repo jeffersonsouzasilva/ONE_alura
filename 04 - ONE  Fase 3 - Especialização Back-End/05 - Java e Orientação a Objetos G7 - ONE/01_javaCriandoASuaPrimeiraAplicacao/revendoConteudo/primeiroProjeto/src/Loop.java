@@ -1,5 +1,4 @@
 // atalho psvm ou main para public static void main
-
 import java.util.Scanner;
 
 public class Loop {
