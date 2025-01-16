@@ -15,3 +15,6 @@ https://github.com/jhonatanjulio/challengeForumHubONE
 
 Joas Barros **
 https://github.com/joas-barros/ONEForumHub
+
+MauricioMH ***
+https://github.com/mauricioHidani/aluraChallengeForumHub
