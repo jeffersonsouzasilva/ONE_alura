@@ -7,23 +7,23 @@ https://github.com/Junioraltn/CatalogoDeLivros
 MauricioMH  ****
 https://github.com/mauricioHidani/aluraChallengeLiter
 
-jhow
+jhow ****
 https://github.com/jhonatanjulio/challengeLiteraluraONE
 
 
-Caio_math
+Caio_math ***
 https://github.com/CaioMtho/Challenge-Literalura
 
 
-Kleber Lima
+Kleber Lima **
 https://github.com/Kleber-Alves-Lima/Livros
 
 
-Gato de Terno
+Gato de Terno ****
 https://github.com/Tulipaox/LiterAlura
 
 
-Renato Santos
+Renato Santos ****
 https://github.com/Renato32s/liter_alura/tree/main
 
 
@@ -49,3 +49,7 @@ https://youtu.be/6tE5Q_omB7w
 
 Felps **
 https://github.com/felipeadls/literalura
+
+
+Gisele
+https://github.com/giseletoledo/literalura
