@@ -19,7 +19,7 @@ https://github.com/mauricioHidani/aluraChallengeForumHub
 lucca ***
 https://github.com/lucca16bit/spring-forum-hub
 
-hatboy **
+Hatboy **
 https://github.com/hatboy18/ForumAlura
 
 Gisele ****
@@ -28,5 +28,8 @@ https://github.com/giseletoledo/forum
 Marcos Rangel
 https://github.com/RangelMRK/forumhub
 
-augusto
+Augusto
 https://github.com/patrickaugusto/forumHub
+
+Maiara
+https://github.com/aguedamaiara/challenge-forumhub
