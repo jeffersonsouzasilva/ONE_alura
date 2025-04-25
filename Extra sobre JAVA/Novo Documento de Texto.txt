@@ -1,0 +1,14 @@
+Roadmap JAVA Alura:
+  https://github.com/alura/techguide/blob/main/_data/downloadFiles/PT_BR/java.md
+  https://techguide.sh/pt-BR/path/java/
+
+Desafio 7daysofcode:
+  https://7daysofcode.io/#back-end
+
+Artigos:
+  https://www.alura.com.br/artigos
+
+Notion - Cronograma ONE Turma 7 - Etapa de Seleção BR:
+  https://grupoalura.notion.site/Cronograma-ONE-Turma-7-Etapa-de-Sele-o-BR-d3e4636d7e774441a450c39e1b5213dc
+
+

@@ -1,0 +1,13 @@
+Roadmap JAVA Alura:
+  https://github.com/alura/techguide/blob/main/_data/downloadFiles/PT_BR/java.md
+  https://techguide.sh/pt-BR/path/java/
+
+Desafio 7daysofcode:
+  https://7daysofcode.io/#back-end
+
+Artigos:
+  https://www.alura.com.br/artigos
+
+
+
+
